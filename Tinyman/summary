@@ -1,0 +1,8 @@
+Tinyman is a decentralized exchange (DEX) on Algorand. More specifically it is an Automated Market Maker (AMM) exchange employing the Constant Product Market Maker algorithm. This is the same concept pioneered by Uniswap V2.
+The web-based app (app.tinyman.org) is a visual interface for interacting with a set of smart contracts deployed to the Algorand blockchain. 
+The exchange is fully decentralized and non custodian. Funds are held in permissionless smart contract accounts. This means the only methods to withdraw funds from the pool accounts are those encoded in the smart contract. At a high level, this code only allows withdrawals in exchange for an appropriate amount of another asset or by the liquidity owners in exchange for their Pool Tokens.
+
+
+Website: https://tinyman.org/ 
+Twitter: https://twitter.com/tinymanorg
+Discord: https://discord.gg/F45BA3Gqxj 
