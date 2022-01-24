@@ -1,0 +1,6 @@
+Algo explorer is the premiere block explorer on the Algorand Blockchain. 
+AlgoExplorer enables anyone to quickly retrieve information on the most common queries such as the latest transactions made in the network, the balance of an account, transaction history log, the data from a certain block, and much more.
+In addition to this, the AlgoExplorer has a built-in complete API to access the Algorand Blockchain, the engine of the block explorer. By leveraging it, Dapps will be able to access blockchain data by simply calling a Rest API from any device.
+
+Website: https://algoexplorer.io/ 
+Twitter: https://twitter.com/algo_explorer
