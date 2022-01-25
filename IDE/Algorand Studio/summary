@@ -1,0 +1,3 @@
+Algorand Studio is an IDE to develop Algorand Smart Contracts (ASC1) for the Algorand Blockchain. It includes TEAL code editor and compiler, PyTeal integration, Algorand node, keypair manager, and block explorer. The IDE can also help to construct Algorand transactions, include atomic transfers, multi-sig transactions, Algorand Standard Assets (ASA) creation/transfer/destory, and direct and delegated contract executions.
+
+Website: https://github.com/ObsidianLabs/AlgorandStudio
